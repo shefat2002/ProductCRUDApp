@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C19E595-CA01-4B80-A89B-74092AD48B7B}|Solution Items{2C19E595-CA01-4B80-A89B-74092AD48B7B}|C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{2C19E595-CA01-4B80-A89B-74092AD48B7B}|Solution Items{2C19E595-CA01-4B80-A89B-74092AD48B7B}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readme.md",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md",
+              "RelativeDocumentMoniker": "Readme.md",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md",
+              "RelativeToolTip": "Readme.md",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-14T17:01:55.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
