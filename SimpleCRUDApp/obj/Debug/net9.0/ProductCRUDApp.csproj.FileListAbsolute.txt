@@ -219,3 +219,4 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SimpleCRUDApp\SimpleCRUDApp\obj\Debug\net9.0\ProductCRUDApp.pdb
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SimpleCRUDApp\SimpleCRUDApp\obj\Debug\net9.0\ProductCRUDApp.genruntimeconfig.cache
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SimpleCRUDApp\SimpleCRUDApp\obj\Debug\net9.0\ref\ProductCRUDApp.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\SimpleCRUDApp\SimpleCRUDApp\obj\Debug\net9.0\ProductCRUDApp.sourcelink.json

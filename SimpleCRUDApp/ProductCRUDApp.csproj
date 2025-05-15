@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
-    <Folder Include="Repository\" />
+    <Folder Include="ServiceImplementation\ProductService\" />
+    <Folder Include="ServiceImplementation\ServiceInterface\" />
   </ItemGroup>
 
 </Project>

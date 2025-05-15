@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\simplecrudapp\\simplecrudapp\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|solutionrelative:simplecrudapp\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\simplecrudapp\\simplecrudapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|solutionrelative:simplecrudapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\simplecrudapp\\simplecrudapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|solutionrelative:simplecrudapp\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\simplecrudapp\\simplecrudapp\\repository\\repositoryinterface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|solutionrelative:simplecrudapp\\repository\\repositoryinterface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\simplecrudapp\\simplecrudapp\\repository\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAB5EC9B-95A1-454F-ADAA-D1A2A88B310E}|SimpleCRUDApp\\ProductCRUDApp.csproj|solutionrelative:simplecrudapp\\repository\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C19E595-CA01-4B80-A89B-74092AD48B7B}|Solution Items{2C19E595-CA01-4B80-A89B-74092AD48B7B}|C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{2C19E595-CA01-4B80-A89B-74092AD48B7B}|Solution Items{2C19E595-CA01-4B80-A89B-74092AD48B7B}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SimpleCRUDApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:59:36.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\RepositoryInterface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDApp\\Repository\\RepositoryInterface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\RepositoryInterface\\IProductRepository.cs",
+              "RelativeToolTip": "SimpleCRUDApp\\Repository\\RepositoryInterface\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:28:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDApp\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "SimpleCRUDApp\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:26:13.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDApp\\Repository\\RepositoryInterface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeToolTip": "SimpleCRUDApp\\Repository\\RepositoryInterface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:23:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SimpleCRUDApp\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\SimpleCRUDApp\\Repository\\GenericRepository.cs*",
+              "RelativeToolTip": "SimpleCRUDApp\\Repository\\GenericRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:21:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\SimpleCRUDApp\\Readme.md",
               "RelativeToolTip": "Readme.md",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-14T17:01:55.698Z",
               "EditorCaption": ""
